@@ -71,12 +71,12 @@ function Navbar(props) {
               Team
             </span>
           </Link>
-          <Link className="lg: hidden group transition-all duration-100 ease-in-out hover:text-[#5CB841] no-underline text-[#5d7164] justify-center items-center px-2.5 py-[13px]" to="https://forms.gle/5W91xBnh4B6HJEup6" target='_blank'>
+          <Link className="lg: hidden group transition-all duration-100 ease-in-out hover:text-[#5CB841] no-underline text-[#5d7164] justify-center items-center px-2.5 py-[13px]" to="https://forms.gle/wGrEYQqsj2vREGiG8" target='_blank'>
             <span className="text-sm sm:text-base bg-left-bottom bg-gradient-to-r from-[#b0d8a3] to-[#b0d8a3] bg-[length:0%_1px] bg-no-repeat group-hover:bg-[length:100%_1px] transition-all duration-500 ease-out">
               Market & Trends Analyst Application
             </span>
           </Link>
-          <Link className="lg: hidden group transition-all duration-100 ease-in-out hover:text-[#5CB841] no-underline text-[#5d7164] justify-center items-center px-2.5 py-[13px]" to="https://forms.gle/5W91xBnh4B6HJEup6" target='_blank'>
+          <Link className="lg: hidden group transition-all duration-100 ease-in-out hover:text-[#5CB841] no-underline text-[#5d7164] justify-center items-center px-2.5 py-[13px]" to="https://forms.gle/wGrEYQqsj2vREGiG8" target='_blank'>
             <span className="text-sm sm:text-base bg-left-bottom bg-gradient-to-r from-[#b0d8a3] to-[#b0d8a3] bg-[length:0%_1px] bg-no-repeat group-hover:bg-[length:100%_1px] transition-all duration-500 ease-out">
             Investment Analyst Application
             </span>
@@ -98,10 +98,10 @@ function Navbar(props) {
           </div>
           <div className="flex flex-col w-[350px] h-auto absolute top-28 right-16 bg-slate-100 rounded-2xl text-center z-20 transition-all duration-700">
             <div className="p-4">
-              <a href="https://forms.gle/5W91xBnh4B6HJEup6" target="_blank" className="hover:text-[#9db394] active:text-[#a0c48f]">Market & Trends Analyst Applications</a>
+              <a href="https://forms.gle/wGrEYQqsj2vREGiG8" target="_blank" className="hover:text-[#9db394] active:text-[#a0c48f]">Market & Trends Analyst Applications</a>
             </div>
             <div className="pb-4">
-              <a href="https://forms.gle/5W91xBnh4B6HJEup6" target="_blank" className="hover:text-[#95aa8b] active:text-[#a0c48f]">Investment Analyst Application</a>
+              <a href="https://forms.gle/wGrEYQqsj2vREGiG8" target="_blank" className="hover:text-[#95aa8b] active:text-[#a0c48f]">Investment Analyst Application</a>
             </div>
           </div>
         </div>
