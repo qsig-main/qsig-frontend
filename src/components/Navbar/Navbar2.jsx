@@ -28,7 +28,7 @@ const Navbar2 = (props) => {
                 <a href="/team" className={`${currentPage==='team' ? 'pointer-events-none opacity-60' : ''} hover-underline-animation transition-all hover:text-primary`}>Team</a>
             </div>
         </div>
-        <a href="https://forms.gle/5W91xBnh4B6HJEup6" target="_blank" className={`max-md:hidden group relative flex items-center justify-center w-[147px] h-[54px] bg-${props.colour} rounded-[40px] transition-all duration-[250ms] ease-out overflow-hidden`}>
+        <a href="https://forms.gle/wGrEYQqsj2vREGiG8" target="_blank" className={`max-md:hidden group relative flex items-center justify-center w-[147px] h-[54px] bg-${props.colour} rounded-[40px] transition-all duration-[250ms] ease-out overflow-hidden`}>
             <div className="absolute inset-0 w-0 bg-logo_color transition-all duration-[250ms] ease-out group-hover:w-full max-md:hidden"></div>
             <p className='group-hover:text-white transition-all duration-[250ms] ease-out relative'>Apply</p>
             <FiSend className='ml-[9px] pt-[2px] text-[20px] group-hover:rotate-[40deg] group-hover:text-white transition-all duration-[250ms] ease-out' />
@@ -48,7 +48,7 @@ const Navbar2 = (props) => {
             </div>
           </div>
             <div className={`fixed bottom-[50px]`}>
-              <a target="_blank" href="https://forms.gle/5W91xBnh4B6HJEup6" className={`group flex items-center justify-center  h-[54px] bg-white ease-out overflow-hidden ${isActive ? 'transition-all w-[90vw] delay-[125ms]' : 'w-0'}`}>
+              <a target="_blank" href="https://forms.gle/wGrEYQqsj2vREGiG8" className={`group flex items-center justify-center  h-[54px] bg-white ease-out overflow-hidden ${isActive ? 'transition-all w-[90vw] delay-[125ms]' : 'w-0'}`}>
                 <div className="absolute inset-0 h-0 bg-primary transition-all duration-[250ms] ease-out group-hover:h-full"></div>
                 <p className='group-hover:text-white transition-all duration-[250ms] ease-out relative'>Apply</p>
                 <FiSend className='ml-[9px] pt-[2px] text-[20px] group-hover:rotate-[40deg] group-hover:text-white transition-all duration-[250ms] ease-out' />
