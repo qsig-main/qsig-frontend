@@ -107,7 +107,7 @@ const Home = () => {
                 <h1 className='font-montserrat font-bold text-[64px] leading-[95.4%] max-lg:text-[58px] max-[777px]:text-[52px] max-[680px]:px-[10%] max-sm:text-[9.5vw]'>Join Our <br className='max-[680px]:hidden'></br>Team</h1>
                 <p className='font-inter text-[24px] text-p_color leading-[95.4%] mt-[30px] w-[90%] max-lg:mt-[20px] max-lg:text-[20px] max-[777px]:text-[16px] max-[680px]:w-[75%]'>Analyst position with our Junior and Senior Investment teams:</p>
                 <p className='ml-[43px] font-inter text-[24px] text-comp font-bold leading-[95.4%] my-[42px] max-lg:my-[25px] max-lg:text-[20px] max-[777px]:text-[16px] max-[680px]:ml-0'>Portfolio Manager<br></br>Junior Investment Analyst<br></br>Senior Investment Analyst</p>
-                <Button text="Apply" url="https://docs.google.com/forms/d/e/1FAIpQLSf1JPPLSMPuW7rda2_HR7cNwTGr-aTm-zISV7hsy7RrkxpDpA/viewform"/>
+                <Button text="Apply" url="https://docs.google.com/forms/d/e/1FAIpQLSfphrZml6m60mU1S7_qIJUWObAhHLxj0vx-xA1yvv76PeuQgg/viewform"/>
           </div>
           <img className='pr-[50px] pt-[93px] max-lg:w-[40%] max-lg:pr-[4%] max-[680px]:hidden' src={card} alt="" />
         </section>
