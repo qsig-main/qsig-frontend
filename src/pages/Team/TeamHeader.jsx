@@ -43,7 +43,7 @@ const TeamHeader = () => {
     <div>
         <div className={`fade-in ${show ? 'visible' : ''}`}>
             <div className="top-all flex justify-center relative max-[815px]:mb-[50px]  max-[515px]:mb-[8vw]">
-                <h1 className='absolute font-montserrat -z-50 text-[25vw] font-extrabold text-num_color italic bottom-0 leading-[0]'>2023</h1>
+                <h1 className='absolute font-montserrat -z-50 text-[25vw] font-extrabold text-num_color italic bottom-0 leading-[0]'>2025</h1>
                 <div className={`w-[50%] max-[860px]:w-[55%] fade-in ${show ? 'visible' : ''}`}>
                     <img className="" src={TeamPhoto} alt="headshot"></img>
                 </div>
