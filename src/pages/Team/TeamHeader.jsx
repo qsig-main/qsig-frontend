@@ -14,7 +14,7 @@ const TeamHeader = () => {
     }, [])
 
     const getImages = async() => {
-        let response = await fetch('https://web-production-fda0.up.railway.app/api/team/');
+        let response = await fetch('https://web-production-1acdf.up.railway.app/api/team/');
         
         let data = await response.json();
         console.log(data);
